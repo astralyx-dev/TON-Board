@@ -8,7 +8,7 @@ A service for publishing messages in the TON Board channel. Advertise projects, 
 ## Links
 
  - [TON Board channel](https://t.me/boardton)
- - [Awesome README](https://t.me/tonboardbot)
+ - [TON Board bot](https://t.me/tonboardbot)
 
 ## Authors
 
